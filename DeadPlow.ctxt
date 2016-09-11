@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DeadPlow
+comment0.text=\n\ Plow\ vehicle.\n\ \n\ @author\ Hansen\ Ngai\ /\ Mr.\ Cohen\n\ @version\ February\ 2015\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ method\n
+comment2.params=
+comment2.target=void\ drive()
+comment2.text=\n\ Method\ that\ deals\ with\ movement,\ drives/moves\ the\ plow\n
+comment3.params=
+comment3.target=void\ checkHitPedestrian()
+comment3.text=\n\ check\ if\ hits\ a\ Pedestrian,\ and\ if\ so,\ act\n\ accordingly\n
+numComments=4

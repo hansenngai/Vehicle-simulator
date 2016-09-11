@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ MyWorld\ functions\ as\ the\ Controller\ for\ this\ Greenfoot\n\ project\ which\ helps\ students\ understand\ inheritance.\n\ \n\ Firstly,\ I\ added\ a\ plow\ vehicle\ called\ DeadPlow.\ This\ vehicles\ shoves\ bodies\ out\ of\ the\ way\ if\ they\ have\ been\ hit\ by\ a\ car\ and\ have\ not\ been\ aided\n\ by\ an\ ambulance.\ When\ the\ plow\ comes\ into\ contact\ with\ a\ fallen\ body,\ the\ body\ shoots\ towards\ the\ side\ of\ the\ road\ at\ a\ quick\ speed.\ Also,\ I\ seperated\ the\n\ pedestrain\ into\ two\ types\:\ adult\ and\ child.\ They\ share\ most\ of\ the\ same\ behavior,\ but\ the\ bus\ only\ picks\ up\ children.\ I\ thought\ of\ this\ bus\ as\ a\ yellow\ \n\ bus,\ therefore\ only\ picking\ up\ schoolchildren.\ They\ are\ differed\ by\ their\ blue\ body\ and\ red\ hat.\ However,\ the\ school\ bus\ runs\ and\ knocks\ over\ adults.\n\ \n\ Benefits\ of\ using\ inheritence\:\ \n\ \n\ \ -\ My\ two\ types\ of\ pedestrians\ share\ many\ of\ the\ same\ behaviors,\ which\ are\ controlled\ by\ methods.\ \n\ \ -\ Instead\ of\ writing\ the\ same\ code\ for\ all\ of\ them,\ I\ can\ write\ it\ in\ the\ parent\ class\ and\ refer\ to\ it\ in\ the\ subclass\ using\ super.___(),\ decreasing\ the\ amount\ of\ code.\ \n\ \ -\ They\ also\ share\ the\ same\ instance\ variables,\ which\ I\ can\ initialize\ it\ once\ in\ the\ parent\ class\ and\ use\ in\ the\ subclasses\ without\ initializing\ it\ there.\n\ \ -\ All\ my\ vehicles\ drive\ the\ same\ way\ but\ with\ a\ different\ speed,\ so\ I\ can\ initialize\ the\ speed\ and\ also\ write\ the\ movement\ code\ in\ the\ parent\ class.\ Later,\ I\ would\ declare\ the\ individual\ speeds\ in\ the\ subclasses.\n\ \ \n\ @author\ Hansen\ Ngai\ /\ Mr.\ Cohen\n\ @version\ Feb\ 2015\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=inLane
+comment3.target=int\ getYPosition(int)
+comment3.text=\n\ Returns\ the\ appropriate\ y\ coordinate\ for\ a\ given\ lane\n
+numComments=4

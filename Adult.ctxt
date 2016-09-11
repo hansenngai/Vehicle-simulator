@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Adult
+comment0.text=\n\ An\ adult\ pedestrian.\n\ \n\ @author\ Hansen\ Ngai\ /\ Mr.\ Cohen\n\ @version\ February\ 2015\n
+comment1.params=
+comment1.target=Adult()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Adult\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ knockMeOver()
+comment3.text=\n\ Knocks\ person\ over.\ From\ parent\ class.\n
+comment4.params=
+comment4.target=void\ healMe()
+comment4.text=\n\ Heals\ person.\ From\ parent\ class.\n
+comment5.params=
+comment5.target=boolean\ atWorldEdge()
+comment5.text=\n\ Checks\ if\ at\ world\ edge.\ From\ parent\ class.\n
+comment6.params=
+comment6.target=void\ plowed()
+comment6.text=\n\ Plows\ away\ body.\ From\ parent\ class.\n
+numComments=7

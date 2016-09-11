@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ambulance
+comment0.text=\n\ Ambulance\ vehicle.\n\ @author\ Hansen\ Ngai/Mr.Cohen\n\ @version\ February\ 2015\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ method\n
+comment2.params=
+comment2.target=void\ drive()
+comment2.text=\n\ Drives/moves\ the\ bus\n\ \n
+comment3.params=
+comment3.target=void\ checkHitPedestrian()
+comment3.text=\n\ Checks\ for\ collision\ with\ any\ pedestrian\n
+numComments=4

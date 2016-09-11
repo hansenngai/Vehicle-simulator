@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Pedestrian
+comment0.text=\n\ Pedestrian\ Class\n\ \n\ Moves\ mindlessly\ up\ the\ road,\ reacting\ to\ cars\n\ that\ hit\ it,\ ambulances\ that\ heal\ it,\ and\ potentially\n\ buses\ that\ pick\ it\ up.\n\ \n\ @author\ Jordan\ Cohen\ /\ Hansen\ Ngai\n\ \n
+comment1.params=
+comment1.target=void\ checkRemove()
+comment1.text=\n\ Checks\ if\ object\ is\ out\ of\ boundaries\ and\ if\ it\ is,\ removes\ itself.\n\ Code\ may\ not\ be\ working,\ as\ mentioned\ by\ Mr.\ Cohen\ on\ Thurs.\ Feb\ 26.\n
+comment2.params=
+comment2.target=void\ knockMeOver()
+comment2.text=\n\ Method\ causes\ this\ Pedestrian\ to\ stop\ moving\n\ and\ appear\ to\ fall\ over\n
+comment3.params=
+comment3.target=void\ healMe()
+comment3.text=\n\ Method\ causes\ this\ pedestrian\ to\ "heal"\ -\ regain\n\ upright\ position\ and\ start\ moving\ again\n
+comment4.params=
+comment4.target=boolean\ atWorldEdge()
+comment4.text=\n\ Handy\ method\ that\ checks\ if\ this\ object\ is\ at\ the\ edge\n\ of\ the\ World\n\ \n\ @return\ boolean\ \ true\ if\ at\ or\ past\ the\ edge\ of\ the\ World,\ otherwise\ false\n
+comment5.params=
+comment5.target=void\ plowed()
+numComments=6
